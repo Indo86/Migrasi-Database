@@ -1,8 +1,7 @@
 import { Sequelize } from "sequelize";
 
-// Nyambungin db ke BE
-const db = new Sequelize("data_user_coba", "root", "", {
-  host: "localhost",
+const db = new Sequelize("data_user_coba", "root", "password123", {
+  host: "34.56.154.227",
   dialect: "mysql",
 });
 

@@ -6,9 +6,9 @@ POST http://localhost:5000/add-user
 Content-Type: application/json
 
 {
-    "name": "tes",
-    "email": "tes@tes.com",
-    "gender": "tes"
+    "name": "tes2",
+    "email": "tes2@tes.com",
+    "gender": "tes2"
 }
 
 ### 
